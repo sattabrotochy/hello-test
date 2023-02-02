@@ -1,0 +1,12 @@
+com.example.android.hellotoast.app-constraint-layout-1.0.2-0 /Users/sattabroto/.gradle/caches/transforms-3/1254173f17e4bfd4c539934c88ebf8ec/transformed/constraint-layout-1.0.2/res
+com.example.android.hellotoast.app-appcompat-v7-26.1.0-1 /Users/sattabroto/.gradle/caches/transforms-3/2bdc93fdee5ca37aa22dcc3c973e841f/transformed/appcompat-v7-26.1.0/res
+com.example.android.hellotoast.app-support-media-compat-26.1.0-2 /Users/sattabroto/.gradle/caches/transforms-3/914572a81f8a3de6c4622e2cf2e82397/transformed/support-media-compat-26.1.0/res
+com.example.android.hellotoast.app-support-compat-26.1.0-3 /Users/sattabroto/.gradle/caches/transforms-3/d2329751d34de55415505d7b9398d167/transformed/support-compat-26.1.0/res
+com.example.android.hellotoast.app-pngs-4 /Users/sattabroto/Documents/HelloToast/app/build/generated/res/pngs/debug
+com.example.android.hellotoast.app-resValues-5 /Users/sattabroto/Documents/HelloToast/app/build/generated/res/resValues/debug
+com.example.android.hellotoast.app-rs-6 /Users/sattabroto/Documents/HelloToast/app/build/generated/res/rs/debug
+com.example.android.hellotoast.app-mergeDebugResources-7 /Users/sattabroto/Documents/HelloToast/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir
+com.example.android.hellotoast.app-mergeDebugResources-8 /Users/sattabroto/Documents/HelloToast/app/build/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+com.example.android.hellotoast.app-merged_res-9 /Users/sattabroto/Documents/HelloToast/app/build/intermediates/merged_res/debug
+com.example.android.hellotoast.app-debug-10 /Users/sattabroto/Documents/HelloToast/app/src/debug/res
+com.example.android.hellotoast.app-main-11 /Users/sattabroto/Documents/HelloToast/app/src/main/res

@@ -1,0 +1,66 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.android.hellotoast"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="16"
+8-->/Users/sattabroto/Documents/HelloToast/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="26" />
+9-->/Users/sattabroto/Documents/HelloToast/app/src/main/AndroidManifest.xml
+10
+11    <application
+11-->/Users/sattabroto/Documents/HelloToast/app/src/main/AndroidManifest.xml:5:5-23:19
+12        android:allowBackup="true"
+12-->/Users/sattabroto/Documents/HelloToast/app/src/main/AndroidManifest.xml:6:9-35
+13        android:debuggable="true"
+14        android:icon="@mipmap/ic_launcher"
+14-->/Users/sattabroto/Documents/HelloToast/app/src/main/AndroidManifest.xml:7:9-43
+15        android:label="@string/app_name"
+15-->/Users/sattabroto/Documents/HelloToast/app/src/main/AndroidManifest.xml:8:9-41
+16        android:roundIcon="@mipmap/ic_launcher_round"
+16-->/Users/sattabroto/Documents/HelloToast/app/src/main/AndroidManifest.xml:9:9-54
+17        android:supportsRtl="true"
+17-->/Users/sattabroto/Documents/HelloToast/app/src/main/AndroidManifest.xml:10:9-35
+18        android:testOnly="true"
+19        android:theme="@style/AppTheme" >
+19-->/Users/sattabroto/Documents/HelloToast/app/src/main/AndroidManifest.xml:11:9-40
+20        <activity
+20-->/Users/sattabroto/Documents/HelloToast/app/src/main/AndroidManifest.xml:12:9-15:40
+21            android:name="com.example.android.hellotoast.SecondActivity"
+21-->/Users/sattabroto/Documents/HelloToast/app/src/main/AndroidManifest.xml:13:13-43
+22            android:exported="false"
+22-->/Users/sattabroto/Documents/HelloToast/app/src/main/AndroidManifest.xml:15:13-37
+23            android:label="@string/second_Activity_Name" />
+23-->/Users/sattabroto/Documents/HelloToast/app/src/main/AndroidManifest.xml:14:13-57
+24        <activity android:name="com.example.android.hellotoast.MainActivity" >
+24-->/Users/sattabroto/Documents/HelloToast/app/src/main/AndroidManifest.xml:16:9-22:20
+24-->/Users/sattabroto/Documents/HelloToast/app/src/main/AndroidManifest.xml:16:19-47
+25            <intent-filter>
+25-->/Users/sattabroto/Documents/HelloToast/app/src/main/AndroidManifest.xml:17:13-21:29
+26                <action android:name="android.intent.action.MAIN" />
+26-->/Users/sattabroto/Documents/HelloToast/app/src/main/AndroidManifest.xml:18:17-69
+26-->/Users/sattabroto/Documents/HelloToast/app/src/main/AndroidManifest.xml:18:25-66
+27
+28                <category android:name="android.intent.category.LAUNCHER" />
+28-->/Users/sattabroto/Documents/HelloToast/app/src/main/AndroidManifest.xml:20:17-77
+28-->/Users/sattabroto/Documents/HelloToast/app/src/main/AndroidManifest.xml:20:27-74
+29            </intent-filter>
+30        </activity>
+31
+32        <meta-data
+32-->[com.android.support:appcompat-v7:26.1.0] /Users/sattabroto/.gradle/caches/transforms-3/2bdc93fdee5ca37aa22dcc3c973e841f/transformed/appcompat-v7-26.1.0/AndroidManifest.xml:26:9-28:38
+33            android:name="android.support.VERSION"
+33-->[com.android.support:appcompat-v7:26.1.0] /Users/sattabroto/.gradle/caches/transforms-3/2bdc93fdee5ca37aa22dcc3c973e841f/transformed/appcompat-v7-26.1.0/AndroidManifest.xml:27:13-51
+34            android:value="26.1.0" />
+34-->[com.android.support:appcompat-v7:26.1.0] /Users/sattabroto/.gradle/caches/transforms-3/2bdc93fdee5ca37aa22dcc3c973e841f/transformed/appcompat-v7-26.1.0/AndroidManifest.xml:28:13-35
+35        <meta-data
+35-->[android.arch.lifecycle:runtime:1.0.0] /Users/sattabroto/.gradle/caches/transforms-3/3a063499179e9e059b99103199913b02/transformed/runtime-1.0.0/AndroidManifest.xml:25:9-27:47
+36            android:name="android.arch.lifecycle.VERSION"
+36-->[android.arch.lifecycle:runtime:1.0.0] /Users/sattabroto/.gradle/caches/transforms-3/3a063499179e9e059b99103199913b02/transformed/runtime-1.0.0/AndroidManifest.xml:26:13-58
+37            android:value="27.0.0-SNAPSHOT" />
+37-->[android.arch.lifecycle:runtime:1.0.0] /Users/sattabroto/.gradle/caches/transforms-3/3a063499179e9e059b99103199913b02/transformed/runtime-1.0.0/AndroidManifest.xml:27:13-44
+38    </application>
+39
+40</manifest>

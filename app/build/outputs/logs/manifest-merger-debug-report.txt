@@ -1,0 +1,158 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/sattabroto/Documents/HelloToast/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/sattabroto/Documents/HelloToast/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/sattabroto/Documents/HelloToast/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/sattabroto/Documents/HelloToast/app/src/main/AndroidManifest.xml:2:1-25:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/sattabroto/.gradle/caches/transforms-3/2bdc93fdee5ca37aa22dcc3c973e841f/transformed/appcompat-v7-26.1.0/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/sattabroto/.gradle/caches/transforms-3/1254173f17e4bfd4c539934c88ebf8ec/transformed/constraint-layout-1.0.2/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/sattabroto/.gradle/caches/transforms-3/0ad17b66087ff8d1d95326159ed6e067/transformed/animated-vector-drawable-26.1.0/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/sattabroto/.gradle/caches/transforms-3/fe160d8348b3f53330f0b638da39b5ba/transformed/support-vector-drawable-26.1.0/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] /Users/sattabroto/.gradle/caches/transforms-3/7afc2752cab4dab8626bf5a2a28ddc48/transformed/support-v4-26.1.0/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/sattabroto/.gradle/caches/transforms-3/914572a81f8a3de6c4622e2cf2e82397/transformed/support-media-compat-26.1.0/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/sattabroto/.gradle/caches/transforms-3/dfef5b92d44788736a7cf2f08a71f468/transformed/support-fragment-26.1.0/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/sattabroto/.gradle/caches/transforms-3/2da0dd892f989e7d433cb0e8233a6a6e/transformed/support-core-utils-26.1.0/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/sattabroto/.gradle/caches/transforms-3/df295ad21f7f3f00c77fefe4383aaa25/transformed/support-core-ui-26.1.0/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] /Users/sattabroto/.gradle/caches/transforms-3/d2329751d34de55415505d7b9398d167/transformed/support-compat-26.1.0/AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/sattabroto/.gradle/caches/transforms-3/3a063499179e9e059b99103199913b02/transformed/runtime-1.0.0/AndroidManifest.xml:17:1-30:12
+INJECTED from /Users/sattabroto/Documents/HelloToast/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/sattabroto/Documents/HelloToast/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/sattabroto/Documents/HelloToast/app/src/main/AndroidManifest.xml:2:1-25:12
+	package
+		ADDED from /Users/sattabroto/Documents/HelloToast/app/src/main/AndroidManifest.xml:3:5-45
+		INJECTED from /Users/sattabroto/Documents/HelloToast/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sattabroto/Documents/HelloToast/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/sattabroto/Documents/HelloToast/app/src/main/AndroidManifest.xml
+		ADDED from /Users/sattabroto/Documents/HelloToast/app/src/main/AndroidManifest.xml:2:1-25:12
+		INJECTED from /Users/sattabroto/Documents/HelloToast/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/sattabroto/Documents/HelloToast/app/src/main/AndroidManifest.xml
+		ADDED from /Users/sattabroto/Documents/HelloToast/app/src/main/AndroidManifest.xml:2:1-25:12
+		INJECTED from /Users/sattabroto/Documents/HelloToast/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/sattabroto/Documents/HelloToast/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/sattabroto/Documents/HelloToast/app/src/main/AndroidManifest.xml:5:5-23:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/sattabroto/.gradle/caches/transforms-3/2bdc93fdee5ca37aa22dcc3c973e841f/transformed/appcompat-v7-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/sattabroto/.gradle/caches/transforms-3/2bdc93fdee5ca37aa22dcc3c973e841f/transformed/appcompat-v7-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/sattabroto/.gradle/caches/transforms-3/1254173f17e4bfd4c539934c88ebf8ec/transformed/constraint-layout-1.0.2/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/sattabroto/.gradle/caches/transforms-3/1254173f17e4bfd4c539934c88ebf8ec/transformed/constraint-layout-1.0.2/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/sattabroto/.gradle/caches/transforms-3/0ad17b66087ff8d1d95326159ed6e067/transformed/animated-vector-drawable-26.1.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/sattabroto/.gradle/caches/transforms-3/0ad17b66087ff8d1d95326159ed6e067/transformed/animated-vector-drawable-26.1.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/sattabroto/.gradle/caches/transforms-3/fe160d8348b3f53330f0b638da39b5ba/transformed/support-vector-drawable-26.1.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/sattabroto/.gradle/caches/transforms-3/fe160d8348b3f53330f0b638da39b5ba/transformed/support-vector-drawable-26.1.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/sattabroto/.gradle/caches/transforms-3/7afc2752cab4dab8626bf5a2a28ddc48/transformed/support-v4-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/sattabroto/.gradle/caches/transforms-3/7afc2752cab4dab8626bf5a2a28ddc48/transformed/support-v4-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/sattabroto/.gradle/caches/transforms-3/914572a81f8a3de6c4622e2cf2e82397/transformed/support-media-compat-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/sattabroto/.gradle/caches/transforms-3/914572a81f8a3de6c4622e2cf2e82397/transformed/support-media-compat-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/sattabroto/.gradle/caches/transforms-3/dfef5b92d44788736a7cf2f08a71f468/transformed/support-fragment-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/sattabroto/.gradle/caches/transforms-3/dfef5b92d44788736a7cf2f08a71f468/transformed/support-fragment-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/sattabroto/.gradle/caches/transforms-3/2da0dd892f989e7d433cb0e8233a6a6e/transformed/support-core-utils-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/sattabroto/.gradle/caches/transforms-3/2da0dd892f989e7d433cb0e8233a6a6e/transformed/support-core-utils-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/sattabroto/.gradle/caches/transforms-3/df295ad21f7f3f00c77fefe4383aaa25/transformed/support-core-ui-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/sattabroto/.gradle/caches/transforms-3/df295ad21f7f3f00c77fefe4383aaa25/transformed/support-core-ui-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/sattabroto/.gradle/caches/transforms-3/d2329751d34de55415505d7b9398d167/transformed/support-compat-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/sattabroto/.gradle/caches/transforms-3/d2329751d34de55415505d7b9398d167/transformed/support-compat-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/sattabroto/.gradle/caches/transforms-3/3a063499179e9e059b99103199913b02/transformed/runtime-1.0.0/AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/sattabroto/.gradle/caches/transforms-3/3a063499179e9e059b99103199913b02/transformed/runtime-1.0.0/AndroidManifest.xml:24:5-28:19
+	android:supportsRtl
+		ADDED from /Users/sattabroto/Documents/HelloToast/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /Users/sattabroto/Documents/HelloToast/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /Users/sattabroto/Documents/HelloToast/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /Users/sattabroto/Documents/HelloToast/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /Users/sattabroto/Documents/HelloToast/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /Users/sattabroto/Documents/HelloToast/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.example.android.hellotoast.SecondActivity
+ADDED from /Users/sattabroto/Documents/HelloToast/app/src/main/AndroidManifest.xml:12:9-15:40
+	android:label
+		ADDED from /Users/sattabroto/Documents/HelloToast/app/src/main/AndroidManifest.xml:14:13-57
+	android:exported
+		ADDED from /Users/sattabroto/Documents/HelloToast/app/src/main/AndroidManifest.xml:15:13-37
+	android:name
+		ADDED from /Users/sattabroto/Documents/HelloToast/app/src/main/AndroidManifest.xml:13:13-43
+activity#com.example.android.hellotoast.MainActivity
+ADDED from /Users/sattabroto/Documents/HelloToast/app/src/main/AndroidManifest.xml:16:9-22:20
+	android:name
+		ADDED from /Users/sattabroto/Documents/HelloToast/app/src/main/AndroidManifest.xml:16:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/sattabroto/Documents/HelloToast/app/src/main/AndroidManifest.xml:17:13-21:29
+action#android.intent.action.MAIN
+ADDED from /Users/sattabroto/Documents/HelloToast/app/src/main/AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from /Users/sattabroto/Documents/HelloToast/app/src/main/AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/sattabroto/Documents/HelloToast/app/src/main/AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from /Users/sattabroto/Documents/HelloToast/app/src/main/AndroidManifest.xml:20:27-74
+uses-sdk
+INJECTED from /Users/sattabroto/Documents/HelloToast/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/sattabroto/Documents/HelloToast/app/src/main/AndroidManifest.xml
+INJECTED from /Users/sattabroto/Documents/HelloToast/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/sattabroto/.gradle/caches/transforms-3/2bdc93fdee5ca37aa22dcc3c973e841f/transformed/appcompat-v7-26.1.0/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/sattabroto/.gradle/caches/transforms-3/2bdc93fdee5ca37aa22dcc3c973e841f/transformed/appcompat-v7-26.1.0/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/sattabroto/.gradle/caches/transforms-3/1254173f17e4bfd4c539934c88ebf8ec/transformed/constraint-layout-1.0.2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/sattabroto/.gradle/caches/transforms-3/1254173f17e4bfd4c539934c88ebf8ec/transformed/constraint-layout-1.0.2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/sattabroto/.gradle/caches/transforms-3/0ad17b66087ff8d1d95326159ed6e067/transformed/animated-vector-drawable-26.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/sattabroto/.gradle/caches/transforms-3/0ad17b66087ff8d1d95326159ed6e067/transformed/animated-vector-drawable-26.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/sattabroto/.gradle/caches/transforms-3/fe160d8348b3f53330f0b638da39b5ba/transformed/support-vector-drawable-26.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/sattabroto/.gradle/caches/transforms-3/fe160d8348b3f53330f0b638da39b5ba/transformed/support-vector-drawable-26.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] /Users/sattabroto/.gradle/caches/transforms-3/7afc2752cab4dab8626bf5a2a28ddc48/transformed/support-v4-26.1.0/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] /Users/sattabroto/.gradle/caches/transforms-3/7afc2752cab4dab8626bf5a2a28ddc48/transformed/support-v4-26.1.0/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/sattabroto/.gradle/caches/transforms-3/914572a81f8a3de6c4622e2cf2e82397/transformed/support-media-compat-26.1.0/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/sattabroto/.gradle/caches/transforms-3/914572a81f8a3de6c4622e2cf2e82397/transformed/support-media-compat-26.1.0/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/sattabroto/.gradle/caches/transforms-3/dfef5b92d44788736a7cf2f08a71f468/transformed/support-fragment-26.1.0/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/sattabroto/.gradle/caches/transforms-3/dfef5b92d44788736a7cf2f08a71f468/transformed/support-fragment-26.1.0/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/sattabroto/.gradle/caches/transforms-3/2da0dd892f989e7d433cb0e8233a6a6e/transformed/support-core-utils-26.1.0/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/sattabroto/.gradle/caches/transforms-3/2da0dd892f989e7d433cb0e8233a6a6e/transformed/support-core-utils-26.1.0/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/sattabroto/.gradle/caches/transforms-3/df295ad21f7f3f00c77fefe4383aaa25/transformed/support-core-ui-26.1.0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/sattabroto/.gradle/caches/transforms-3/df295ad21f7f3f00c77fefe4383aaa25/transformed/support-core-ui-26.1.0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /Users/sattabroto/.gradle/caches/transforms-3/d2329751d34de55415505d7b9398d167/transformed/support-compat-26.1.0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /Users/sattabroto/.gradle/caches/transforms-3/d2329751d34de55415505d7b9398d167/transformed/support-compat-26.1.0/AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/sattabroto/.gradle/caches/transforms-3/3a063499179e9e059b99103199913b02/transformed/runtime-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/sattabroto/.gradle/caches/transforms-3/3a063499179e9e059b99103199913b02/transformed/runtime-1.0.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/sattabroto/Documents/HelloToast/app/src/main/AndroidManifest.xml
+INJECTED from /Users/sattabroto/Documents/HelloToast/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/sattabroto/.gradle/caches/transforms-3/2bdc93fdee5ca37aa22dcc3c973e841f/transformed/appcompat-v7-26.1.0/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/sattabroto/Documents/HelloToast/app/src/main/AndroidManifest.xml
+		ADDED from /Users/sattabroto/Documents/HelloToast/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sattabroto/Documents/HelloToast/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/sattabroto/Documents/HelloToast/app/src/main/AndroidManifest.xml
+		ADDED from /Users/sattabroto/Documents/HelloToast/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sattabroto/Documents/HelloToast/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/sattabroto/.gradle/caches/transforms-3/2bdc93fdee5ca37aa22dcc3c973e841f/transformed/appcompat-v7-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/sattabroto/.gradle/caches/transforms-3/0ad17b66087ff8d1d95326159ed6e067/transformed/animated-vector-drawable-26.1.0/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/sattabroto/.gradle/caches/transforms-3/0ad17b66087ff8d1d95326159ed6e067/transformed/animated-vector-drawable-26.1.0/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/sattabroto/.gradle/caches/transforms-3/fe160d8348b3f53330f0b638da39b5ba/transformed/support-vector-drawable-26.1.0/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/sattabroto/.gradle/caches/transforms-3/fe160d8348b3f53330f0b638da39b5ba/transformed/support-vector-drawable-26.1.0/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] /Users/sattabroto/.gradle/caches/transforms-3/7afc2752cab4dab8626bf5a2a28ddc48/transformed/support-v4-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] /Users/sattabroto/.gradle/caches/transforms-3/7afc2752cab4dab8626bf5a2a28ddc48/transformed/support-v4-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/sattabroto/.gradle/caches/transforms-3/914572a81f8a3de6c4622e2cf2e82397/transformed/support-media-compat-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/sattabroto/.gradle/caches/transforms-3/914572a81f8a3de6c4622e2cf2e82397/transformed/support-media-compat-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/sattabroto/.gradle/caches/transforms-3/dfef5b92d44788736a7cf2f08a71f468/transformed/support-fragment-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/sattabroto/.gradle/caches/transforms-3/dfef5b92d44788736a7cf2f08a71f468/transformed/support-fragment-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/sattabroto/.gradle/caches/transforms-3/2da0dd892f989e7d433cb0e8233a6a6e/transformed/support-core-utils-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/sattabroto/.gradle/caches/transforms-3/2da0dd892f989e7d433cb0e8233a6a6e/transformed/support-core-utils-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/sattabroto/.gradle/caches/transforms-3/df295ad21f7f3f00c77fefe4383aaa25/transformed/support-core-ui-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/sattabroto/.gradle/caches/transforms-3/df295ad21f7f3f00c77fefe4383aaa25/transformed/support-core-ui-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/sattabroto/.gradle/caches/transforms-3/d2329751d34de55415505d7b9398d167/transformed/support-compat-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/sattabroto/.gradle/caches/transforms-3/d2329751d34de55415505d7b9398d167/transformed/support-compat-26.1.0/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/sattabroto/.gradle/caches/transforms-3/2bdc93fdee5ca37aa22dcc3c973e841f/transformed/appcompat-v7-26.1.0/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/sattabroto/.gradle/caches/transforms-3/2bdc93fdee5ca37aa22dcc3c973e841f/transformed/appcompat-v7-26.1.0/AndroidManifest.xml:27:13-51
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/sattabroto/.gradle/caches/transforms-3/3a063499179e9e059b99103199913b02/transformed/runtime-1.0.0/AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/sattabroto/.gradle/caches/transforms-3/3a063499179e9e059b99103199913b02/transformed/runtime-1.0.0/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/sattabroto/.gradle/caches/transforms-3/3a063499179e9e059b99103199913b02/transformed/runtime-1.0.0/AndroidManifest.xml:26:13-58
